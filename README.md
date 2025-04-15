@@ -13,6 +13,13 @@
 ماژول‌های اصلی:
 - برای تولید عدد تصادفی (random).
 
+نحوه اجرا:
+1- git clone [آدرس ریپازیتوری].
+2- به دایرکتوری پروژه بروید:
+cd guess-my-number
+3- برنامه را اجرا کنید.
+
+
 لایسنس:
 این پروژه تحت لایسنس MIT منتشر شده است.
 
@@ -30,6 +37,12 @@ Features:
 Technologies Used:
 - Frontend: HTML, CSS, JavaScript.
 - Key Modules: "random" for number generation.
+
+How to Run:
+1- Clone the repository:
+git clone [repo-url].
+2- Navigate to the project directory:
+cd guess-my-number.
 
 License:
 - This project is licensed under the MIT License.
